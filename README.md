@@ -9,6 +9,6 @@ You can see the full demonstration video here https://www.linkedin.com/posts/him
 
 
 ![image](https://user-images.githubusercontent.com/53088534/131244207-980b24a9-6670-4e93-be3f-cf4bb76f53d4.png)
-![image](https://user-images.githubusercontent.com/53088534/131244247-3315921b-0949-47c7-9cf3-863a1b41e4f9.png)
+<!-- ![image](https://user-images.githubusercontent.com/53088534/131244247-3315921b-0949-47c7-9cf3-863a1b41e4f9.png) -->
 
 
